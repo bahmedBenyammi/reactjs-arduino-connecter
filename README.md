@@ -1,4 +1,4 @@
-# Reactjs-arduino-connecter
+# Nodejs-arduino-connecter
 A simple code that send string from arduino uno into reactjs using socket.io 
 
 ## ibraries used
